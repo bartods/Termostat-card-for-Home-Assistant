@@ -145,5 +145,7 @@ Dodanie testów E2E dla interakcji suwaka i przycisków.
 
 ![Image](https://github.com/user-attachments/assets/6f2bc366-03cf-4571-92bd-f6b148f0c659)
 
+[https://buymeacoffee.com/bartods](url)
+
 Bartosz Damian Scencelek
 
