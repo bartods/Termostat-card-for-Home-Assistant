@@ -4,7 +4,6 @@
   "homeassistant": "2021.12.0",
   "zip_release": false,
   "render_readme": true,
-  "changelog": "CHANGELOG.md",
   "manifest": "hacs_manifest.json",
   "issue_tracker": "https://github.com/bartods/Termostat-card-for-Home-Assistant/issues",
   "categories": ["Frontend"]
