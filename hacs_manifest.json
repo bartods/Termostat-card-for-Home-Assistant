@@ -1,0 +1,8 @@
+{
+  "name": "Klimatyzator Card",
+  "content": ["frontend"],
+  "root": "dist",
+  "files": [
+    "klimatyzator-card.js"
+  ]
+}
